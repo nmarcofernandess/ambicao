@@ -1,0 +1,10 @@
+{
+  "name": "ambicao",
+  "displayName": "Ambição",
+  "version": "0.1.0",
+  "description": "Reescreve um braindump num prompt mais ambicioso e para antes de executar.",
+  "author": { "name": "Marco Antonio", "url": "https://github.com/nmarcofernandess" },
+  "license": "MIT",
+  "keywords": ["prompt", "planning", "ambition"],
+  "skills": "./skills/"
+}

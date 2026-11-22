@@ -1,0 +1,20 @@
+{
+  "name": "ambicao",
+  "owner": { "name": "Marco Antonio" },
+  "metadata": {
+    "description": "Reescreve um braindump num prompt mais ambicioso e para antes de executar.",
+    "version": "0.1.0",
+    "pluginRoot": "."
+  },
+  "plugins": [
+    {
+      "name": "ambicao",
+      "source": "./plugins/ambicao",
+      "description": "Reescreve um braindump num prompt mais ambicioso (altitude, profundidade, alcance) e para antes de executar.",
+      "version": "0.1.0",
+      "author": { "name": "Marco Antonio" },
+      "license": "MIT",
+      "keywords": ["prompt", "planning", "ambition"]
+    }
+  ]
+}
