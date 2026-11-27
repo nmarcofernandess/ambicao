@@ -1,7 +1,6 @@
 ---
 name: ambicao
-description: "Reescreve um braindump ou pedido de tarefa num prompt mais ambicioso (altitude, profundidade e alcance), mostra o resultado e para antes de executar. Não copia para o clipboard. Use somente quando Marco invocar /ambicao."
-disable-model-invocation: true
+description: "Reescreve um braindump ou pedido de tarefa num prompt mais ambicioso (altitude, profundidade e alcance), mostra o resultado e para antes de executar. Não copia para o clipboard. Use quando Marco invocar /ambicao ou pedir explicitamente a skill ambição (\"usa a ambição\", \"passa na ambição\"), inclusive por um coordenador que repassa o pedido dele. Não use por iniciativa própria."
 argument-hint: "[braindump ou tarefa]"
 ---
 
